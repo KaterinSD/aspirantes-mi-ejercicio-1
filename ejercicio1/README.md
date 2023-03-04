@@ -12,4 +12,5 @@
 -git add .
 -git commit -m "Agrega solución primer ejercicio"
 -git status
+-git log
 -code .
