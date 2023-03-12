@@ -2,8 +2,7 @@
 -git mkdir
 -cd ejercicios/
 -code  .
--git config --global user.name Katerin
--git config --global user.email kasantanad@hotmail.com
+
 -git init
 -git add .
 -git commit -m "Versión inicial"
